@@ -4,6 +4,7 @@
   box-sizing: border-box;
   text-decoration: none;
 }
+<<<<<<< HEAD
 .container{
   max-width: 1440px;
   padding: 47px 84px;
@@ -107,3 +108,9 @@ a:hover {
 .main p{
   color: white;
 }
+=======
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+>>>>>>> origin/main
