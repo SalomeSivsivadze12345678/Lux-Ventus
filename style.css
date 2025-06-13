@@ -199,6 +199,8 @@ background-image: url(/assets/MENTAL\ HEALTH-bgk.jpg);
   width: 175px;
   height: 36PX;
   border-radius: 40PX;
+  font-size: 12px;
+  font-weight: 700;
   position: absolute;
   top: 10px;
   left: 25px;
@@ -241,6 +243,7 @@ background-image: url(/assets/MENTAL\ HEALTH-bgk.jpg);
   align-self: center;
   gap: 134px;
   font-size: 14px;
+  font-family: 400;
   color:#BCBCBC ;
 }
 
@@ -248,10 +251,12 @@ background-image: url(/assets/MENTAL\ HEALTH-bgk.jpg);
   width: 500px;
 }
 .text-boxs h2{
+  font-family: 700;
   font-size: 26px;
 }
 .text-boxs p{font-size: 18px;
 color: #262626;
+font-weight: 400;
 padding-top: 5px;
 }
 
