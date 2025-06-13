@@ -154,12 +154,13 @@ a:hover {
 }
 
 
-/* ლუკამ დაიწყო */
+
+
 .main-cards{
   margin-top: 88px;
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 48px;
 }
 
 .card{
@@ -281,4 +282,3 @@ padding-top: 5px;
   background-color: #4CE0D7;
 }
 
-/* ლუკამ დაასრულა ;p */
