@@ -186,13 +186,13 @@ border-radius: 25px;
 }
 
 .cards-img .img1 {
-background-image: url(/assets/fashion-bkg1.jpg);
+background-image: url(./assets/fashion-bkg1.jpg);
 }
 .cards-img .img2 {
-background-image: url(/assets/ENSEMBLES-bkg.jpg);
+background-image: url(./assets/ENSEMBLES-bkg.jpg);
 }
 .cards-img .img3 {
-background-image: url(/assets/MENTAL\ HEALTH-bgk.jpg);
+background-image: url(./assets/MENTAL\ HEALTH-bgk.jpg);
 }
 
 .cards-img button{
