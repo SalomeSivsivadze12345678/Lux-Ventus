@@ -4,21 +4,36 @@
   box-sizing: border-box;
   text-decoration: none;
 }
-<<<<<<< HEAD
-.container{
+
+
+
+body{
+  font-family: 'Poppins', sans-serif;
+  background-color: #F9F9F9;
+  }
+
+
+
+  .container{
   max-width: 1440px;
   padding: 47px 84px;
   margin: 0px auto;
 }
+
+
 .logo img{
   width: 234px;
   height: 49px;
 }
 
+
+
 .nav img{
   width: 47px;
   height: 47px;
 }
+
+
 
 .header{
   display: flex;
@@ -27,12 +42,18 @@
   padding-bottom: 47px;
 }
 
+
+
 .nav{
   display: flex;
-  gap: 60px;
+  gap: 22px;
   align-items: center;
+ 
+  
   
 }
+
+
 
 .nav a{
   font-size: 14px;
@@ -40,6 +61,8 @@
   color: #262626;
   
 }
+
+
 
 a {
   color: #262626; 
@@ -50,11 +73,15 @@ a {
   background-color: transparent;
 }
 
+
+
 a:hover {
   background-color: #4CE0D7; 
   color: #262626;
   
 }
+
+
 
 .nav img {
   width: 24px;
@@ -67,11 +94,15 @@ a:hover {
   
 }
 
+
+
 .nav img:hover {
   background-color: #4CE0D7; 
   color: #262626;
   
 }
+
+
 
 
 .main{
@@ -84,6 +115,8 @@ a:hover {
   
 }
 
+
+
 .main {
   background-image:
   linear-gradient(rgba(0, 0, 0, 0.33), rgba(0, 0, 0, 0.33)),
@@ -95,6 +128,8 @@ a:hover {
   border-radius: 20px;
 }
 
+
+
 .highlight {
   background: linear-gradient(90deg, #4CE0D7 43.06%, #8BA9F4 100%);
   -webkit-background-clip: text;
@@ -102,15 +137,20 @@ a:hover {
   background-clip: text; 
   color: transparent;
 }
+
+
 .ventus{
   color: white;
+  font-size: 46px;
+  font-weight: 400px;
+  
 }
+
+
 .main p{
   color: white;
+  font-size: 17;
+  font-weight: 700px;
 }
-=======
 
-body{
-  font-family: 'Poppins', sans-serif;
-}
->>>>>>> origin/main
+
