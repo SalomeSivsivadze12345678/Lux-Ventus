@@ -12,6 +12,7 @@ body {
 
 .container {
   max-width: 1440px;
+  width: 100%;
   padding: 47px 84px;
   margin: 0px auto;
 }
@@ -225,8 +226,8 @@ a:hover {
   gap: 10px;
 }
 .link-more img {
-  width: 52px;
-  height: 32px;
+  width: 21px;
+  height: 13px;
 }
 .link-more a {
   color: #4ce0d7;
