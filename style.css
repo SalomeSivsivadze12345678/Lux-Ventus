@@ -5,24 +5,27 @@
   text-decoration: none;
 }
 
+
+
 body{
   font-family: 'Poppins', sans-serif;
-}
 
-container{
   max-width: 1440px;
   padding: 47px 84px;
   margin: 0px auto;
 }
+
 .logo img{
   width: 234px;
   height: 49px;
 }
 
+
 .nav img{
   width: 47px;
   height: 47px;
 }
+
 
 .header{
   display: flex;
@@ -31,19 +34,6 @@ container{
   padding-bottom: 47px;
 }
 
-.nav{
-  display: flex;
-  gap: 60px;
-  align-items: center;
-  
-}
-
-.nav a{
-  font-size: 14px;
-  font-weight: 700px;
-  color: #262626;
-  
-}
 
 a {
   color: #262626; 
@@ -54,28 +44,13 @@ a {
   background-color: transparent;
 }
 
+
 a:hover {
   background-color: #4CE0D7; 
   color: #262626;
   
 }
 
-.nav img {
-  width: 24px;
-  height: 24px;
-  padding: 4px ;            
-  border-radius: 6px;
-  transition: 0.3s ease, color 0.3s ease;
-  border-radius: 40px;
-  background-color: transparent;
-  
-}
-
-.nav img:hover {
-  background-color: #4CE0D7; 
-  color: #262626;
-  
-}
 
 
 .main{
@@ -88,6 +63,7 @@ a:hover {
   
 }
 
+
 .main {
   background-image:
   linear-gradient(rgba(0, 0, 0, 0.33), rgba(0, 0, 0, 0.33)),
@@ -99,16 +75,10 @@ a:hover {
   border-radius: 20px;
 }
 
+
 .highlight {
   background: linear-gradient(90deg, #4CE0D7 43.06%, #8BA9F4 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text; 
   color: transparent;
-}
-.ventus{
-  color: white;
-}
-.main p{
-  color: white;
-}
