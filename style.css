@@ -57,8 +57,9 @@ body{
 
 .nav a{
   font-size: 14px;
-  font-weight: 700px;
+  
   color: #262626;
+  font-weight: bold;
   
 }
 
@@ -83,24 +84,18 @@ a:hover {
 
 
 
-.nav img {
-  width: 24px;
-  height: 24px;
-  padding: 4px ;            
-  border-radius: 6px;
-  transition: 0.3s ease, color 0.3s ease;
-  border-radius: 40px;
-  background-color: transparent;
+.search {
+  width: 47px;
+  height: 47px;
+ 
+           
   
+ 
 }
 
 
 
-.nav img:hover {
-  background-color: #4CE0D7; 
-  color: #262626;
-  
-}
+
 
 
 
@@ -136,21 +131,35 @@ a:hover {
   -webkit-text-fill-color: transparent;
   background-clip: text; 
   color: transparent;
+  font-weight: bold;
 }
 
 
-.ventus{
+.ventus {
   color: white;
   font-size: 46px;
-  font-weight: 400px;
-  
+  font-weight: 400;
 }
+
+.spaced {
+  letter-spacing: 4px;
+}
+
 
 
 .main p{
   color: white;
-  font-size: 17;
-  font-weight: 700px;
+  font-size: 20px;
+  
+  line-height: 7px;
+  
+
+  
+}
+main h2{
+  color: white;
+  font-size: 12px;
+  letter-spacing: 4px; 
 }
 
 
