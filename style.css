@@ -9,23 +9,16 @@
 
 body{
   font-family: 'Poppins', sans-serif;
-  background-color: #F9F9F9;
-  }
 
-
-
-  .container{
   max-width: 1440px;
   padding: 47px 84px;
   margin: 0px auto;
 }
 
-
 .logo img{
   width: 234px;
   height: 49px;
 }
-
 
 
 .nav img{
@@ -34,35 +27,12 @@ body{
 }
 
 
-
 .header{
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding-bottom: 47px;
 }
-
-
-
-.nav{
-  display: flex;
-  gap: 22px;
-  align-items: center;
- 
-  
-  
-}
-
-
-
-.nav a{
-  font-size: 14px;
-  
-  color: #262626;
-  font-weight: bold;
-  
-}
-
 
 
 a {
@@ -75,28 +45,11 @@ a {
 }
 
 
-
 a:hover {
   background-color: #4CE0D7; 
   color: #262626;
   
 }
-
-
-
-.search {
-  width: 47px;
-  height: 47px;
- 
-           
-  
- 
-}
-
-
-
-
-
 
 
 
@@ -111,7 +64,6 @@ a:hover {
 }
 
 
-
 .main {
   background-image:
   linear-gradient(rgba(0, 0, 0, 0.33), rgba(0, 0, 0, 0.33)),
@@ -124,42 +76,9 @@ a:hover {
 }
 
 
-
 .highlight {
   background: linear-gradient(90deg, #4CE0D7 43.06%, #8BA9F4 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text; 
   color: transparent;
-  font-weight: bold;
-}
-
-
-.ventus {
-  color: white;
-  font-size: 46px;
-  font-weight: 400;
-}
-
-.spaced {
-  letter-spacing: 4px;
-}
-
-
-
-.main p{
-  color: white;
-  font-size: 20px;
-  
-  line-height: 7px;
-  
-
-  
-}
-main h2{
-  color: white;
-  font-size: 12px;
-  letter-spacing: 4px; 
-}
-
-
