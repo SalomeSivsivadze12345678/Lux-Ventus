@@ -114,6 +114,9 @@ a:hover {
   font-weight: 700px;
 }
 
+/* cards */
+
+
 .main-cards {
   margin-top: 88px;
   display: flex;
@@ -130,7 +133,8 @@ a:hover {
   transition: 0.3s ease;
 }
 .card:hover {
-  transform: scale(1.1);
+    cursor: pointer;
+    transform: scale(1.1);
 }
 .cards-img {
   width: 547px;
@@ -174,6 +178,7 @@ a:hover {
 }
 
 .cards-img button:hover {
+  cursor: pointer;
   background-color: #f9f9f9;
   color: #262626;
 }
@@ -231,6 +236,7 @@ a:hover {
 }
 .link-more a {
   color: #4ce0d7;
+  cursor: pointer;
   font-size: 12px;
   font-weight: 700;
 }
