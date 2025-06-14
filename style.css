@@ -27,7 +27,7 @@ body{
 }
 
 
-.header{
+
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -82,3 +82,5 @@ a:hover {
   -webkit-text-fill-color: transparent;
   background-clip: text; 
   color: transparent;
+
+  
